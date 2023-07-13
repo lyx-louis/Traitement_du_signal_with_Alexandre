@@ -1,0 +1,11 @@
+function out = testValue(value, errormsg, min, max)
+%TESTVALUE Summary of this function goes here
+%   Detailed explanation goes here
+
+if ~exist('min','var')
+    min=0;
+end
+
+if ~exist('
+end
+
